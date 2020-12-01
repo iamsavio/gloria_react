@@ -1,0 +1,9 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Courier New', arial;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+  }
+body,p,span {
+    font-family: 'Courier New', arial;
+    font-size: 20px
+  }
